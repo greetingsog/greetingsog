@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/####/">Orlando G.</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I find the world of cybersecurity incredibly engaging, and I prioritize real-world experience through hands-on projects. My work spans critical areas like vulnerability management and threat detection, providing an in-depth understanding of the security landscape. Feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Passionate about securing digital environments through hands-on detection, response, and automation. I prioritize real-world experience through hands-on projects. My work spans critical areas like vulnerability management and threat detection, providing an in-depth understanding of the security landscape. Feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
