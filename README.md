@@ -11,6 +11,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
+Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-standard ports.
 
 <hr/>
 
