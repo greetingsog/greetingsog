@@ -9,8 +9,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 <br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
   
 - **[10+ STIG Remediations via PowerShell](https://github.com/greetingsog/STIGS-PowerShell-Scripts)**
-
-Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
+<br>Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
 
 <hr/>
 
