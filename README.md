@@ -5,7 +5,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/greetingsog/#)**
+- **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
 
  Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
   
