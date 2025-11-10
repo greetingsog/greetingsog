@@ -6,7 +6,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/greetingsog/#)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/greetingsog/#)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
