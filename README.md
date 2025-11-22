@@ -20,8 +20,6 @@ Dedicated to securing digital environments through hands-on detection, response,
 
 <hr/>
 
-<hr/>
-
 ## 🚨 Cloud Projects
 
 - **[Microsoft Azure Honeypot](https://github.com/greetingsog/#)**
