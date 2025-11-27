@@ -18,6 +18,12 @@ Dedicated to securing digital environments through hands-on detection, response,
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
 <br>Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-standard ports.
 
+- **[Threat Hunting Scenario (Port of Entry)](https://github.com/greetingsog/threat-hunt-jade-spider)**
+<br>Tracked a four-phase attack lifecycle from initial access through data exfiltration and the establishment of persistence mechanisms.
+
+
+
+
 <hr/>
 
 ## 🚨 Cloud Projects
