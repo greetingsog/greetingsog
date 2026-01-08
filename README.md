@@ -23,17 +23,6 @@ Dedicated to securing digital environments through hands-on detection, response,
 - **[STIG Remediations via PowerShell](https://github.com/greetingsog/STIGS-PowerShell-Scripts)**
 <br>Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
 
-<hr/>
-
-### 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
-<br>Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-standard ports.
-
-- **[Threat Hunt (Port of Entry)](https://github.com/greetingsog/threat-hunt-jade-spider)**
-<br>Tracked a four-phase attack lifecycle from initial access through data exfiltration and the establishment of persistence mechanisms.
-
-
 
 <hr/>
 
