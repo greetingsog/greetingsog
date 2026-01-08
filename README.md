@@ -2,6 +2,18 @@
 
 Dedicated to securing digital environments through hands-on detection, response, and automation. I prioritize real-world experience through hands-on projects. My work spans critical areas like vulnerability management and threat detection, providing an in-depth understanding of the security landscape. Feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+<hr/>
+
+### 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
+<br>Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-standard ports.
+
+- **[Threat Hunt (Port of Entry)](https://github.com/greetingsog/threat-hunt-jade-spider)**
+<br>Tracked a four-phase attack lifecycle from initial access through data exfiltration and the establishment of persistence mechanisms.
+
+
+<hr/>
 
 ### ⚠️ Vulnerability Management Projects
 
