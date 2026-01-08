@@ -45,7 +45,8 @@ Dedicated to securing digital environments through hands-on detection, response,
 
 
 ====
+## 🤳 Connect With Me
 
-<a href="https://www.linkedin.com/in/orlandogalvon/" target="_blank">
+<a href="https://www.linkedin.com/in/orlandogalvon/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Orlando Galvon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
