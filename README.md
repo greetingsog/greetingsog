@@ -35,7 +35,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 <!--[twitter]: #-->
 <!--[youtube]: #-->
 <!--[instagram]: #-->
-[linkedin]:   <a href="https://www.linkedin.com/in/orlandogalvon/" target="_blank" rel="noopener noreferrer">
+[linkedin]: https://www.linkedin.com/in/orlandogalvon/
  
 
 <!--
