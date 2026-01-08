@@ -3,7 +3,7 @@
 Dedicated to securing digital environments through hands-on detection, response, and automation. I prioritize real-world experience through hands-on projects. My work spans critical areas like vulnerability management and threat detection, providing an in-depth understanding of the security landscape. Feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+### ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
 <br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
