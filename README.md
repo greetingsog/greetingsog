@@ -4,7 +4,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 
 <hr/>
 
-### 🚨 Threat Hunting and Security Operations
+### Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
 <br>Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-standard ports.
@@ -15,7 +15,7 @@ Dedicated to securing digital environments through hands-on detection, response,
 
 <hr/>
 
-### ⚠️ Vulnerability Management Projects
+### Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
 <br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
@@ -25,6 +25,17 @@ Dedicated to securing digital environments through hands-on detection, response,
 
 
 <hr/>
+
+### Information Technology Projects:
+
+- Microsoft Active Directory
+  - Configuring Active Directory within Azure VMs
+  - Managing Active Directory Accounts and Group Policy
+
+<hr/>
+
+
+
 
 ### 🤳 Connect With Me
 
