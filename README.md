@@ -28,9 +28,14 @@ Greetings! This is a collection of technical projects and experiments.
 
 ### Information Technology Projects:
 
-- Microsoft Active Directory
+- Microsoft Active Directory DS
   - Configuring Active Directory within Azure VMs
   - Managing Active Directory Accounts and Group Policy
+ 
+- osTicket (Help Desk Ticketing System)
+  - osTicket: Building a Support Ticketing System from scratch
+  - osTicket: Post-Installation Configuration
+  - osTicket in Action: End-to-End Ticket Management and Helpdesk Workflow Simulation
 
 <hr/>
 
