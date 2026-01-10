@@ -29,7 +29,7 @@ Greetings! This is a collection of technical projects and experiments.
 ### Information Technology Projects:
 
 - Microsoft Active Directory DS
-  - Configuring Active Directory within Azure VMs
+  - Configuring Active Directory within Oracle Virtual Box Machines
   - Managing Active Directory Accounts and Group Policy
  
 - osTicket (Help Desk Ticketing System)
