@@ -6,7 +6,7 @@ Greetings! This is a collection of technical projects and experiments.
 
 ### Threat Hunting and Security Operations
 
-**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
 <br>Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-standard ports.
 
 - **[Threat Hunt (Port of Entry)](https://github.com/greetingsog/threat-hunt-jade-spider)**
