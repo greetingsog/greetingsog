@@ -34,7 +34,7 @@ Greetings! This is a collection of technical projects and experiments.
  
 - #### osTicket (Help Desk Ticketing System)
     - [osTicket Helpdesk (Pre-Configured + Docker) on Local Host on a macOS](https://github.com/greetingsog/osTicket-quick)
-    -- osTicket in Action: I use this lab setup to practice end-to-end Ticket Management and Helpdesk Workflow Simulations. 
+    <br>I use this lab setup to practice end-to-end Ticket Management and Helpdesk Workflow Simulations. 
 
 <hr/>
 
