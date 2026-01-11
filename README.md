@@ -32,8 +32,9 @@ Greetings! This is a collection of technical projects and experiments.
   - [Configuring Active Directory within Oracle Virtual Box Machines](https://github.com/greetingsog/Active-Directory-summary)
   - Managing Active Directory Accounts and Group Policy
  
-- osTicket (Help Desk Ticketing System)
+- #### osTicket (Help Desk Ticketing System)
   - osTicket: Building a Support Ticketing System from scratch
+    - osTicket: osTicket install (Pre-Configured + Docker)
   - osTicket: Post-Installation Configuration
   - osTicket in Action: End-to-End Ticket Management and Helpdesk Workflow Simulation
 
