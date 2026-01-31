@@ -4,6 +4,28 @@ Greetings! This is a collection of technical projects and experiments.
 
 <hr/>
 
+### Cloud Security Infrastructure & Compliance
+
+- **[AWS IAM Implementation & FedRAMP SSP Alignment](https://github.com/greetingsog/AWS-IAM-Compliance-fedramp-ac)**
+<br>Created an Identity and Access Management (IAM) framework within an AWS environment to meet the security requirements of the FedRAMP High Baseline, AC-2 controls.
+
+
+<hr/>
+
+### Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
+<br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
+  
+- **[STIG Remediations via PowerShell](https://github.com/greetingsog/STIGS-PowerShell-Scripts)**
+<br>Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
+
+- **[Vulnerability Management with Nessus in Sandbox Network](https://github.com/greetingsog/#)**
+<br>I secured Windows 10 Hosts by managing the full Tenable Nessus vulnerability lifecycle to remediate critical threats.
+
+
+<hr/>
+
 ### SOC – Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/greetingsog/threat-hunting-scenario-tor-)**
@@ -25,14 +47,6 @@ Greetings! This is a collection of technical projects and experiments.
 
 - **[Vulnerability Management with Nessus in Sandbox Network](https://github.com/greetingsog/#)**
 <br>I secured Windows 10 Hosts by managing the full Tenable Nessus vulnerability lifecycle to remediate critical threats.
-
-
-<hr/>
-
-### Cloud Security Infrastructure & Compliance
-
-- **[AWS IAM Implementation & FedRAMP SSP Alignment](https://github.com/greetingsog/AWS-IAM-Compliance-fedramp-ac)**
-<br>Created an Identity and Access Management (IAM) framework within an AWS environment to meet the security requirements of the FedRAMP High Baseline, AC-2 controls.
 
 
 <hr/>
