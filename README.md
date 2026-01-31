@@ -32,7 +32,7 @@ Greetings! This is a collection of technical projects and experiments.
 ### Cloud Security Infrastructure & Compliance
 
 - **[AWS IAM Implementation & FedRAMP SSP Alignment](https://github.com/greetingsog/AWS-IAM-Compliance-fedramp-ac)**
-<br>Created an Identity and Access Management (IAM) framework within an AWS environment to meet the security requirements of the FedRAMP High Baseline.
+<br>Created an Identity and Access Management (IAM) framework within an AWS environment to meet the security requirements of the FedRAMP High Baseline, AC-2 controls.
 
 
 <hr/>
