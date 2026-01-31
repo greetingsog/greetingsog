@@ -37,20 +37,6 @@ Greetings! This is a collection of technical projects and experiments.
 
 <hr/>
 
-### Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
-<br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
-  
-- **[STIG Remediations via PowerShell](https://github.com/greetingsog/STIGS-PowerShell-Scripts)**
-<br>Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
-
-- **[Vulnerability Management with Nessus in Sandbox Network](https://github.com/greetingsog/#)**
-<br>I secured Windows 10 Hosts by managing the full Tenable Nessus vulnerability lifecycle to remediate critical threats.
-
-
-<hr/>
-
 ### Information Technology Projects:
 
 - #### Microsoft Active Directory DS
