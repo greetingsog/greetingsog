@@ -14,7 +14,7 @@ Greetings! This is a collection of technical projects and experiments.
 
 ### Vulnerability Management
 
-- **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/greetingsog/Vulnerability-Management-Portfolio/tree/main/Project%201%3A%20Enterprise%20Program%20%26%20Policy%20Implementation)**
 <br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
   
 - **[STIG Remediations via PowerShell](https://github.com/greetingsog/STIGS-PowerShell-Scripts)**
