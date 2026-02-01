@@ -12,7 +12,7 @@ Greetings! This is a collection of technical projects and experiments.
 
 <hr/>
 
-### Vulnerability Management Projects
+### Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/greetingsog/vulnerability-management-program)**
 <br>Developed documentation, remediation workflows, and scanning schedules for managing enterprise vulnerabilities.
