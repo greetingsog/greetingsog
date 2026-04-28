@@ -1,4 +1,4 @@
-## <a href="https://www.linkedin.com/in/####/">Orlando G.</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/####/">Orlando G.</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Greetings! This is a collection of technical projects and experiments.
 
