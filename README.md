@@ -55,7 +55,7 @@ Greetings! This is a collection of technical projects, experiments, and practica
 
 ### Community Volunteer Projects:
 
-- #### [NIST CSF 2.0 Framework Assessment & Governance](https://github.com/CPAtoCybersecurity/csf_profile?utm_source=www.cpatocybersecurity.com&utm_medium=referral&utm_campaign=free-nist-csf-tool-why-your-github-profile-matters) <br>(Official NIST.gov Community Resource under tools)
+- #### [NIST CSF 2.0 Framework Assessment & Governance Contributor](https://github.com/CPAtoCybersecurity/csf_profile?utm_source=www.cpatocybersecurity.com&utm_medium=referral&utm_campaign=free-nist-csf-tool-why-your-github-profile-matters) <br>(Official NIST.gov Community Resource under tools)
   - Contributed official hardware inventory (ID.AM-01) test procedures template to the Simply Cyber CSF 2.0 Profile Assessment project, a community resource recognized and listed by NIST.gov.
   - Created Sample-Artifacts, including Hardware Inventory Sampling walkthrough example to ensure hardware inventories are accurate and audit-ready.
 
