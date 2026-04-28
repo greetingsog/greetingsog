@@ -24,7 +24,7 @@ Greetings! This is a collection of technical projects, experiments, and practica
 - **[STIG Remediations via PowerShell](https://github.com/greetingsog/DISA-STIGS-PowerShell-Scripts)**
 <br>Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
 
-- **[Vulnerability Management with Nessus in Sandbox Network](https://github.com/greetingsog/Vulnerability-Management-Portfolio/tree/main/Project%202%3A%20Vulnerability%20Management%20Lifecycle%20Lab%20(Nessus%20%26%20Azure))**
+- **[Vulnerability Management with Tenable in Sandbox Network](https://github.com/greetingsog/Vulnerability-Management-Portfolio/tree/main/Project%202%3A%20Vulnerability%20Management%20Lifecycle%20Lab%20(Nessus%20%26%20Azure))**
 <br>I secured Windows 10 Hosts by managing the full Tenable Nessus vulnerability lifecycle to remediate critical threats.
 
 
