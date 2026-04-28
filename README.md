@@ -74,8 +74,8 @@ Greetings! This is a collection of technical projects, experiments, and practica
 <!--[twitter]: #-->
 <!--[youtube]: #-->
 <!--[instagram]: #-->
-[linkedin]: https://www.linkedin.com/in/orlandogalvon/
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlando%20G.-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandogalvon/)
+<!--[linkedin]: https://www.linkedin.com/in/orlandogalvon/ #-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlando%20G.-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandogalvon/)
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
