@@ -1,6 +1,10 @@
 # <a href="https://www.linkedin.com/in/####/">Orlando G.</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Greetings! This is a collection of technical projects and experiments.
+Greetings! This is a collection of technical projects, experiments, and practical cybersecurity work.
+
+
+**Tools:** Microsoft Sentinel | Defender for Endpoint | Tenable | PowerShell | KQL
+
 
 <hr/>
 
